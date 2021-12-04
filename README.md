@@ -24,13 +24,13 @@
     <div class="timeline">
         <div class="container left">
           <div class="content">
-            <h2>Manager of Doi chaang Caffè</h2>
+            <h2>:black_small_square:Manager of Doi chaang Caffè</h2>
             <p> I have worked at Doichaang coffee cafe in Thailand, as manager.<br><i>(1 December 2017-15 December 2019)</i></p>
           </div>
         </div>
         <div class="container">
           <div class="content">
-            <h2>Siam Smile Insurance Broker</h2>
+            <h2>:black_small_square:Siam Smile Insurance Broker</h2>
             <p>Staff for interview workers in office about the problems at   Siam Smile Insurance.<br><i>(April- June 2014).</i></p>
           </div>
           <hr>
@@ -72,13 +72,13 @@
     <div class="timeline">
           <div class="container">
             <div class="content">
-              <h2>Fullslack Web developer course.</h2>
+              <h2>:white_circle:Fullslack Web developer course.</h2>
               <br><p>FooCoding Malmö Sweden.</p>
             </div>
           </div>
           <div class="container">
           <div class="content">
-            <h2>Bachelor Degree of Economics.</h2>
+          <h2>  :white_circle:Bachelor Degree of Economics.</h2>
             <br><p>Chiang Mai University, Thailand.</p>
           </div>
         </div>
