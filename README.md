@@ -14,7 +14,7 @@
 <hr>
 <section class="contract"> 
     <div class="icon-bar" id="c3">
-        :e-mail:<a class="active" href="mailto: Jetpreeya.y@gmail.com"><i class="fa fa-envelope"></i>Email Jetpreeya.y@gmail.com</a><br>
+        :e-mail:<a class="active" href="mailto: Jetpreeya.y@gmail.com"><i class="fa fa-envelope"></i>Email: Jetpreeya.y@gmail.com</a><br>
         :blue_book:<a href="https://www.linkedin.com/in/jetpreeya-yawichai-42009b144/"  target="_blank"><i class="fa fa-linkedin"></i>Linkedin.com/in/jetpreeya-yawichai</a><br>
       </div>
 </section>
@@ -25,13 +25,13 @@
         <div class="container left">
           <div class="content">
             <h2>:black_small_square:Manager of Doi chaang Caffè</h2>
-            <p> I have worked at Doichaang coffee cafe in Thailand, as manager.<br></p>
+            <p> I have worked at Doichaang coffee cafe , as manager.<br></p>
           </div>
         </div>
         <div class="container">
           <div class="content">
             <h2>:black_small_square:Siam Smile Insurance Broker</h2>
-            <p>Staff for interview workers in office about the problems at   Siam Smile Insurance.<br></p>
+            <p>Staff for interview workers in office about the problems at Siam Smile Insurance.<br></p>
           </div>
           <hr>
         </section> 
