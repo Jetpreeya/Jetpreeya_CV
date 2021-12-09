@@ -19,6 +19,11 @@
       </div>
 </section>
 <hr>
+   <h3>ABOUT ME </h3>
+ <p>I have a great passion for evolving websites , technology , business development and problem solving.
+  I found that from my previous job experience. As a manager I have learned problem solving that helps me in my day-to-day work and also in my personal life. 
+</p>
+ <hr>
     <section class="work-experince">
     <h1 id="c2">Work Experience:briefcase:</h1>
     <div class="timeline">
