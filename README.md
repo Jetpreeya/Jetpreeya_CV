@@ -43,7 +43,7 @@
         <hr>
       <h1>My Skills:computer:</h1>
 
-<p>-HTML</p>
+<p>-HTML5</p>
 <div class="container">
   
 </div>
