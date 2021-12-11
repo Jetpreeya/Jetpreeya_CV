@@ -43,7 +43,7 @@
         <hr>
       <h1>My Skills:computer:</h1>
 
-<p>:heavy_minus_sign:HTML5</p>
+<p>-HTML5</p>
 <div class="container">
   
 </div>
