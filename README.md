@@ -92,6 +92,6 @@
   <section class="contract"> 
     <div class="icon-bar" id="c3">
         :e-mail:<a class="active" href="mailto: Jetpreeya.y@gmail.com"><i class="fa fa-envelope"></i>Email Jetpreeya.y@gmail.com</a><br>
-        :e-mail: <a class="active" href="mailto: Jetpreeya.Norkaew@gmail.com"><i class="fa fa-envelope"></i>Email Jetpreeya.Norkaew@gmail.com</a><br>
+        :e-mail:<a class="active" href="mailto: Jetpreeya.Norkaew@gmail.com"><i class="fa fa-envelope"></i>Email Jetpreeya.Norkaew@gmail.com</a><br>
        <br>
 </html>
