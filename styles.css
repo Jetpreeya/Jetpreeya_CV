@@ -25,7 +25,7 @@ body {
     padding: 0 25px;
   }
 
-  h2{
+  h2 {
     color: rgba(207, 108, 231, 0.753);
     text-align: center;
     margin: 20px;
@@ -39,7 +39,7 @@ box {
     text-align: center;
   }
 
-  bold{
+ bold {
     font-family: Times New Roman;
   background: #b4b3ce;
   color: White;
