@@ -46,7 +46,6 @@ box {
   text-align: center;
   }
 
-  
   .navbar {
     width: 88%;
     background-color: rgb(194, 192, 219);
@@ -63,7 +62,6 @@ box {
     background-color: rgb(216, 200, 200);
   }
   
-
   .bar{
     font-size: 30px;
     color: rgb(70, 39, 129);
@@ -90,8 +88,8 @@ box {
   background-color: lightgrey;
   width: 90%;
   }
-  a {
-    text-decoration: none;
+
+  a {text-decoration: none;
   }
  
   .Email-me{
