@@ -32,9 +32,7 @@ body {
     font-family: Arial
   }
 
-
-
-  box {
+box {
     border-style: solid;
     border-color: rgb(240, 227, 227);
     border-width: 5px;
@@ -53,15 +51,13 @@ body {
     width: 88%;
     background-color: rgb(194, 192, 219);
     text-align: left;
-    
   }
   
   .navbar a {
     padding: 12px;
     color: rgb(48, 29, 83);
     font-size: 30px;
-    
-  }
+   }
   
   .navbar a:hover {
     background-color: rgb(216, 200, 200);
@@ -114,9 +110,7 @@ body {
   justify-content:space-around;
 }
 
-
-
-  link {
+link {
     text-decoration: underline;
   }
   
