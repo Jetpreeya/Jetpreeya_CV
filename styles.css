@@ -256,11 +256,3 @@ link {
 .php {width: 80%; background-color: #808080;}
 .node {width: 75%; background-color: #808080;}
 .git {width: 88%; background-color: #808080;}
-
-@media(min-width:600px)
-{
-  p{font-size: 1.25 rem;
-    line-height: 1.5;
-
-  }
-}
