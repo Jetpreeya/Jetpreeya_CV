@@ -98,7 +98,7 @@ box {
     color: rgb(217, 229, 248);
     margin: 0 auto;
   }
-  /* Centered text */
+
 .centered {
   display: grid;
   grid-row:initial;
