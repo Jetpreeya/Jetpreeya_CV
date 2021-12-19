@@ -6,7 +6,7 @@ body {
     text-decoration-color: wheat;
   }
    
-  img{
+img{
     border-color: whitesmoke;
     border-width: 10px;
     border-style: solid;
@@ -16,7 +16,7 @@ body {
   margin-right: auto;
   }
 
-  h1 {
+h1 {
     color: rgba(149, 108, 224, 0.822);
     border-width: 5px;
     text-align: center;
