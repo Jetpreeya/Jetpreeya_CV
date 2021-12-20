@@ -41,7 +41,7 @@
           <hr>
         </section> 
         <hr>
-      <h1>My Skills:computer:</h1>
+      <h1 style="color:brown">My Skills:computer:</h1>
 
 <p>-HTML5</p>
 <div class="container">
