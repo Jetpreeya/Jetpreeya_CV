@@ -86,7 +86,7 @@
           <div class="container">
             <div class="content">
               <h2>:white_circle:Fullslack Web developer course.</h2>
-              <br><p>FooCoding Malmö Sweden.</p>
+              <br><p>FooCoding Malmö, Sweden.</p>
             </div>
           </div>
           <div class="container">
