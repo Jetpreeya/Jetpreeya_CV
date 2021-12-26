@@ -92,7 +92,7 @@ box {
   a {text-decoration: none;
   }
  
-  .Email-me{
+Email-me{
     position: relative;
     text-align: center;
     color: rgb(217, 229, 248);
@@ -113,7 +113,7 @@ link {
   }
   
   /* The actual timeline (the vertical ruler) */
-  .timeline {
+ timeline {
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
