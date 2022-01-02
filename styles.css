@@ -51,8 +51,8 @@ navbar {
     background-color: rgb(194, 192, 219);
     text-align: left;
   }
-  
-  .navbar a {
+
+.navbar a {
     padding: 12px;
     color: rgb(48, 29, 83);
     font-size: 30px;
