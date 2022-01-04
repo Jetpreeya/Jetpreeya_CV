@@ -22,8 +22,7 @@ img{
     margin-left: 400px;   
   }
 
-
-  h1 {
+h1 {
     color: rgba(32, 32, 59, 0.753);
     border-width: 5px;
     text-align: center;
@@ -33,7 +32,7 @@ img{
     margin-left: -15px;
   }
 
-  h2{
+ h2{
     color: rgba(207, 108, 231, 0.753);
     text-align: center;
     margin: 20px;
