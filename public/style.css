@@ -66,12 +66,10 @@ box {
     
   }
   
-  .navbar a {
+ .navbar a {
     padding: 12px;
     color: rgb(48, 29, 83);
     font-size: 30px;
-    
-    
   }
   
   .navbar a:hover {
