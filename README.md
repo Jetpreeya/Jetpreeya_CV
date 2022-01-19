@@ -62,11 +62,11 @@
   
 </div>
 
-<p>-NodeJs</p>
+<p>-Node.Js Express</p>
 <div class="container">
   
 </div>
- <p>-Database</p>
+ <p>-Database MySQL Cli </p>
 <div class="container">
   
 </div>    
