@@ -7,7 +7,7 @@ app.use(express.static(path.join(__dirname,"/public/")));
 
 app.get("/", (req,res) =>{
 
-    res.send('Hello Myfriend');
+    res.send('Hello Myfriend, Welcome to my page');
 })
 
 app.listen(port, ()=>{
