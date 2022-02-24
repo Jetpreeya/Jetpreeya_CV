@@ -35,7 +35,7 @@
         <div class="container">
           <div class="content">
             <h2>:black_small_square:Siam Smile Insurance Broker</h2>
-            <p>Staff for interview workers in office about the problems at Siam Smile Insurance.<br></p>
+            <p>Staff for interview workers in office about the problems at Siam Smile Insurance.</p>
           </div>
           <hr>
         </section> 
