@@ -41,47 +41,47 @@
         </section> 
         <hr>
       <h1>My Skills:computer:</h1>
-
-<p>-HTML5</p>
+<ul>
+<li><p>HTML5</p></li>
 <div class="container">
   
 </div>
 
-<p>-CSS</p>
+<li><p>CSS</p></li>
 <div class="container">
   
 </div>
 
-<p>-JavaScript</p>
+<li><p>JavaScript</p></li>
 <div class="container">
 </div>
 
-<p>-Git</p>
+<li><p>Git</p></li>
 <div class="container">
   
 </div>
 
-<p>-Node.Js Express</p>
+<li><p>Node.Js Express</p></li>
 <div class="container">
   
 </div>
- <p>-Database MySQL Cli </p>
+ <li><p>Database MySQL Cli </p></li>
 <div class="container">
   
 </div>    
-<p>-React</p>
+<li><p>React</p></li>
 <div class="container">
   
 </div>
 
-<p>-Trello</p>
+<li><p>Trello</p></li>
 <div class="container">  
 </div>
 
-<p>-Adobe Photoshop</p>
-<div class="container">
-  
+<li><p>Adobe Photoshop</p></li>
+<div class="container"> 
 </div>
+</ul>
 <hr>
 <section class="Education">
     <h1 id="c4">Education:mortar_board:</h1>
