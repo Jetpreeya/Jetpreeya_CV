@@ -88,14 +88,14 @@
     <div class="timeline">
           <div class="container">
             <div class="content">
-              <h2>:white_circle:Fullslack web developer intensive course.:woman_technologist:</h2>
+              <h2>:black_small_square:Fullslack web developer intensive course.:woman_technologist:</h2>
              <h3>FooCoding Malmö, Sweden.</h3> <br>
             </div>
           </div>
           <div class="container">
           <div class="content">
-          <h2>  :white_circle:Bachelor Degree of Economics.:chart_with_upwards_trend:</h2>
-            <h3>Chiang Mai University, Thailand.</h3><br>
+          <h2>  :black_small_square:Bachelor Degree of Economics.:chart_with_upwards_trend:</h2>
+            <h3>Chiang Mai University, Thailand.</h3>
           </div>
         </div>
         </section>
