@@ -88,14 +88,14 @@
     <div class="timeline">
           <div class="container">
             <div class="content">
-              <h2>:white_circle:Fullslack web developer intensive course.</h2>
-              <br><p>FooCoding Malmö, Sweden.</p>
+              <h2>:white_circle:Fullslack web developer intensive course.:woman_technologist:</h2>
+              <br><h3>FooCoding Malmö, Sweden.</h3>
             </div>
           </div>
           <div class="container">
           <div class="content">
-          <h2>  :white_circle:Bachelor Degree of Economics.</h2>
-            <br><p>Chiang Mai University, Thailand.</p>
+          <h2>  :white_circle:Bachelor Degree of Economics.:chart_with_upwards_trend:</h2>
+            <br><h3>Chiang Mai University, Thailand.</h3>
           </div>
         </div>
         </section>
@@ -103,6 +103,5 @@
   <section class="contract"> 
     <div class="icon-bar" id="c3">
         :e-mail:<a class="active" href="mailto: Jetpreeya.y@gmail.com"><i class="fa fa-envelope"></i>Email Jetpreeya.y@gmail.com</a><br>
-        :e-mail:<a class="active" href="mailto: Jetpreeya.Norkaew@gmail.com"><i class="fa fa-envelope"></i>Email Jetpreeya.Norkaew@gmail.com</a><br>
        <br>
 </html>
