@@ -89,13 +89,13 @@
           <div class="container">
             <div class="content">
               <h2>:white_circle:Fullslack web developer intensive course.:woman_technologist:</h2>
-              <br><h3>FooCoding Malmö, Sweden.</h3>
+             <h3>FooCoding Malmö, Sweden.</h3> <br>
             </div>
           </div>
           <div class="container">
           <div class="content">
           <h2>  :white_circle:Bachelor Degree of Economics.:chart_with_upwards_trend:</h2>
-            <br><h3>Chiang Mai University, Thailand.</h3>
+            <h3>Chiang Mai University, Thailand.</h3><br>
           </div>
         </div>
         </section>
