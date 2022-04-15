@@ -92,6 +92,10 @@
               <h2>:black_small_square:Fullslack web developer intensive course.:woman_technologist:</h2>
              <h3>FooCoding Malmö, Sweden.</h3> <br>
             </div>
+           <div class="content">
+              <h2>:black_small_square:Programmer course.:woman_technologist:</h2>
+             <h3>Lexicon Malmö, Sweden.</h3> <br>
+            </div>
           </div>
           <div class="container">
           <div class="content">
