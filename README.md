@@ -88,15 +88,14 @@
     <h1 id="c4">Education:mortar_board:</h1>
     <div class="timeline">
           <div class="container">
-            <div class="content">
-              <h2>:black_small_square:Fullslack web developer intensive course.:woman_technologist:</h2>
-             <h3>FooCoding Malmö, Sweden.</h3> <br>
-            </div>
            <div class="content">
               <h2>:black_small_square:Programmer course .NET C#.:woman_technologist:</h2>
              <h3>Lexicon Malmö, Sweden.</h3> <br>
             </div>
-          </div>
+            <div class="content">
+              <h2>:black_small_square:Fullslack web developer intensive course.:woman_technologist:</h2>
+             <h3>FooCoding Malmö, Sweden.</h3> <br>
+           </div>
           <div class="container">
           <div class="content">
           <h2>  :black_small_square:Bachelor Degree of Economics.:chart_with_upwards_trend:</h2>
