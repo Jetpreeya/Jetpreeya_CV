@@ -52,7 +52,7 @@
 <div class="container">
 </div>
 
-<li><p>Git</p></li>
+<li><p>Git, GitHub</p></li>
 <div class="container"> 
 </div>
 
