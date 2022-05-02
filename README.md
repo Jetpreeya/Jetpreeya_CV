@@ -43,12 +43,7 @@
         <hr>
       <h1>My Skills:computer:</h1>
 <ul>
-<li><p>HTML5</p></li>
-<div class="container">
-  
-</div>
-
-<li><p>CSS</p></li>
+<li><p>HTML5, CSS </p></li>
 <div class="container">
   
 </div>
@@ -58,8 +53,7 @@
 </div>
 
 <li><p>Git</p></li>
-<div class="container">
-  
+<div class="container"> 
 </div>
 
 <li><p>Node.Js Express</p></li>
@@ -72,7 +66,10 @@
 </div>    
 <li><p>React</p></li>
 <div class="container">
-  
+</div>
+ 
+ <li><p>C#</p></li>
+<div class="container">
 </div>
 
 <li><p>Trello</p></li>
