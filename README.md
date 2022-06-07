@@ -87,15 +87,18 @@
           <div class="container">
            <div class="content">
               <h2>:black_small_square:Programmer course .NET C#.:woman_technologist:</h2>
+            <h3> April 2022 - Now</h3>
              <h3>Lexicon Malmö, Sweden.</h3> <br>
             </div>
             <div class="content">
               <h2>:black_small_square:Fullslack web developer intensive course.:woman_technologist:</h2>
+             <h3> August 2021 - March 2022</h3>
              <h3>FooCoding Malmö, Sweden.</h3> <br>
            </div>
           <div class="container">
           <div class="content">
           <h2>  :black_small_square:Bachelor Degree of Economics.:chart_with_upwards_trend:</h2>
+           <h3> May 2013 - December 2016</h3>
             <h3>Chiang Mai University, Thailand.</h3>
           </div>
         </div>
