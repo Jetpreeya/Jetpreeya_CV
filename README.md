@@ -68,7 +68,7 @@
 <div class="container">
 </div>
  
- <li><p>C#</p></li>
+ <li><p>C# .NET</p></li>
 <div class="container">
 </div>
 
