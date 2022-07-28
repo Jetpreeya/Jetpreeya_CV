@@ -16,7 +16,7 @@
     <div class="icon-bar" id="c3">
      <h3>Contact info </h3> 
         :e-mail:<a class="active" href="mailto: Jetpreeya.y@gmail.com"><i class="fa fa-envelope"></i>Email: Jetpreeya.y@gmail.com</a><br>
-        :blue_book:<a href="https://www.linkedin.com/in/jetpreeya-yawichai-42009b144/"  target="_blank"><i class="fa fa-linkedin"></i>Linkedin.com/in/jetpreeya-yawichai</a><br>
+        :blue_book:<a href="https://www.linkedin.com/in/jetpreeya-yawichai/"  target="_blank"><i class="fa fa-linkedin"></i>Linkedin.com/in/jetpreeya-yawichai</a><br>
       </div>
 </section>
 <hr>
